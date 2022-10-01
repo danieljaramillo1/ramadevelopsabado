@@ -1,4 +1,4 @@
 # retos
 
-Mauricio Andres Palacio 
-Daniel Felipe Jaramillo Muñoz
+- Mauricio Andres Palacio 
+- Daniel Felipe Jaramillo Muñoz
